@@ -1,0 +1,5 @@
+- # sobre mim
+- 👋 Olá, meu nome é Paulo
+- Meu e-mail de contato é @paulo.krupinski@escola.pr.gov.br
+- Eu estou interessado em aprender a programar novas linguagens
+-  eu estou aprendendo a programar recentemente a linguagem JavaScript e Scratch
